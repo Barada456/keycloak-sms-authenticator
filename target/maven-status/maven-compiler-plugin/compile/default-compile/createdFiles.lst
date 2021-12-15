@@ -1,0 +1,5 @@
+jp\openstandia\keycloak\authenticator\SMSAuthenticatorFactory.class
+jp\openstandia\keycloak\authenticator\api\SMSParams.class
+jp\openstandia\keycloak\authenticator\SMSAuthenticator.class
+jp\openstandia\keycloak\authenticator\api\SMSSendVerify.class
+jp\openstandia\keycloak\authenticator\SMSAuthContstants.class
